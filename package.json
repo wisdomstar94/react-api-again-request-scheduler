@@ -1,6 +1,6 @@
 {
   "name": "@wisdomstar94/react-api-again-request-scheduler",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "scripts": {
     "dev": "next dev -p 3330",
@@ -22,8 +22,8 @@
     "@types/node": "20.4.2",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
-    "@wisdomstar94/react-indexeddb-manager": "^0.0.3",
-    "@wisdomstar94/react-promise-interval": "^0.0.1",
+    "@wisdomstar94/react-indexeddb-manager": "^0.0.6",
+    "@wisdomstar94/react-promise-interval": "^0.0.3",
     "autoprefixer": "10.4.14",
     "eslint": "8.45.0",
     "eslint-config-next": "13.4.10",
